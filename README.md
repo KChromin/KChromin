@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MrChromInSky
+- 👋 Hi, I’m Kacper "Chromin" Chromiński
 - 👀 I’m interested in Games, and GameDev
 - 🌱 I’m currently learning Unity Engine
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? by email: kacperchrominski.gamedev@gmail.com
 
 <!---
