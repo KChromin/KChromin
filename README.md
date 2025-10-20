@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Kacper "Chromin" Chromiński
-- 🌱 I’m currently learning Unity Engine
 - 📫 How to reach me? by email: kacperchrominski.important@gmail.com
