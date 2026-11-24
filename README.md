@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Kacper "Chromin" Chromiński
-- 📫 How to reach me? by email: kacperchrominski.important@gmail.com
+- 📫 How to reach me? by email: kchrominski.jobs@protonmail.com
+
